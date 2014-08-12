@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{BCA7AD43-84E0-4AA4-A3F9-3A5055FFE316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageManagementSystem.ConsoleUI", "Ex03.GarageManagementSystem.ConsoleUI\Ex03.GarageManagementSystem.ConsoleUI.csproj", "{0C6C0539-4EE8-43BB-BEBB-B96796DAEAE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF040E39-EE6E-4928-B896-AA710C4B3D50}"
+	ProjectSection(SolutionItems) = preProject
+		Classes,Enums and Diagram.docx = Classes,Enums and Diagram.docx
+		Info.txt = Info.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA7AD43-84E0-4AA4-A3F9-3A5055FFE316}.Debug|x86.ActiveCfg = Debug|x86
+		{BCA7AD43-84E0-4AA4-A3F9-3A5055FFE316}.Debug|x86.Build.0 = Debug|x86
+		{BCA7AD43-84E0-4AA4-A3F9-3A5055FFE316}.Release|x86.ActiveCfg = Release|x86
+		{BCA7AD43-84E0-4AA4-A3F9-3A5055FFE316}.Release|x86.Build.0 = Release|x86
+		{0C6C0539-4EE8-43BB-BEBB-B96796DAEAE0}.Debug|x86.ActiveCfg = Debug|x86
+		{0C6C0539-4EE8-43BB-BEBB-B96796DAEAE0}.Debug|x86.Build.0 = Debug|x86
+		{0C6C0539-4EE8-43BB-BEBB-B96796DAEAE0}.Release|x86.ActiveCfg = Release|x86
+		{0C6C0539-4EE8-43BB-BEBB-B96796DAEAE0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
